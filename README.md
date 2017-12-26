@@ -34,7 +34,7 @@ MongoDB is een "document based" database systeem en ideaal voor het ontwikkelen 
 Studenten zullen de basis van MongoDB meekrijgen maar ze zullen geen specialisten worden. Desondanks kunnen ze later makkelijker hun kennis hierover uitbreiden.
 
 ### Heroku
-Heroku is een web hosting platform voor Node.js applicaties (en vele andere). Door het gebruik van GitHub is het zeer gebruiksvriendelijk
+Heroku is een web hosting platform voor Node.js applicaties (en vele andere). Met het gebruik van GitHub is het zeer gebruiksvriendelijk
 
 Een web applicatie dat alleen op je eigen lokale computer kan runnen is niets waard. Daarom zullen studenten leren hoe ze hun web applicatie makkelijk online krijgen. Heroku voorziet een gratis optie dus ideaal voor studenten. Andere web hosting platformen zullen ook kort besproken worden.
 
