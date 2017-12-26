@@ -29,7 +29,7 @@ Node.js is een JavaScript engine die op de server draait. Het zorgt er dus voor 
 Wanneer de studenten ReactJS onder de knie hebben gaan ze meer te weten komen over Node.js zodat ze hun applicaties volledig dynamisch kunnen maken. Zowel JavaScript kunnen schrijven op de server als op de client is een enorm voordeel voor een ontwikkelaar.
 
 ### MongoDB
-MongoDB is een "document based" database systeem en ideaal voor het ontwikkelen complexe en data intensieve web applicaties. Een groot voordeel is dat er geen voorgedefinieerd schema moet zijn en documenten kunnen een embedded hiërarchie hebben. Het gebruik van MySQl is natuurlijk nog steeds relevant maar een NoSQL oplossing zoals MongoDB is zeker een plus.
+MongoDB is een "document based" database systeem en ideaal voor het ontwikkelen complexe en data intensieve web applicaties. Een groot voordeel is dat er geen voorgedefinieerd schema moet zijn en documenten kunnen een embedded hiërarchie hebben. Het gebruik van MySQL is natuurlijk nog steeds relevant maar een NoSQL oplossing zoals MongoDB is zeker een plus.
 
 Studenten zullen de basis van MongoDB meekrijgen maar ze zullen geen specialisten worden. Desondanks kunnen ze later makkelijker hun kennis hierover uitbreiden.
 
