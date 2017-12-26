@@ -9,7 +9,7 @@ Tijdens de hoor-en-werkcolleges zullen de studenten verscheidende complementaire
 ### Git/GitHub
 Git is een must voor elke IT'er. Het wordt gebruikt om veranderingen in source code te tracken en het is essentieel voor teams om samen te kunnen werken. GitHub is daarentegen de populairste service die Git projecten host.
 
-Studenten zullen tijdens het eerste hoorcollege een introductie krijgen hoe Git precies werken. Commando's zoals pull, commit, branch, merge, checkout en push zullen geen chinees meer zijn. Git wordt aangesproken via de terminal dus dit zal dan ook minder vreemd zijn voor de student.
+Studenten zullen tijdens het eerste hoorcollege een introductie krijgen hoe Git precies werkt. Commando's zoals pull, commit, branch, merge, checkout en push zullen geen chinees meer zijn. Git wordt aangesproken via de terminal dus dit zal dan ook minder vreemd zijn voor de student.
 Het gebruik van GitHub zal ook toegelicht worden en andere hosting services zoals Bitbucket en Gitlab zullen ook besproken worden.
 
 ### Sass
