@@ -41,7 +41,7 @@ Een web applicatie dat alleen op je eigen lokale computer kan runnen is niets wa
 ## Werkstuk
 De studenten moeten een web applicatie maken dat gebruikt maakt van alle aangeleerde technieken.
 
-## extra inhoud
+## Extra inhoud
 De onderstaande technologieën bouwen verder op de basis inhoud en kunnen onafhankelijk van elkaar gegeven worden.
 
 ### GraphQL/Apollo
