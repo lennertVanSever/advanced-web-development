@@ -1,5 +1,5 @@
-# Full Stack Web Development
-Het doel van de lessen "Full Stack Web Development" is dat studenten op een professionele en moderne manier web applicaties kunnen maken van het begin tot het einde. Dus zowel de "Front-End" als de "Back-End".
+# Advanced Web Development
+Het doel van de lessen "Advanced Web Development" is dat studenten op een professionele en moderne manier web applicaties kunnen maken van het begin tot het einde. Dus zowel de "Front-End" als de "Back-End".
 
 De nadruk zal vooral liggen op de technische uitwerking, maar natuurlijk is een theoretische basis ook nodig als ondersteuning.
 
