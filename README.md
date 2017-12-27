@@ -58,5 +58,5 @@ Electron.js is vergelijkbaar met Cordova maar zorgt ervoor dat web applicaties k
 ### Meteor.js
 Meteor.js is een Node.js framework die het mogelijk maakt om web applicaties volledig real time te maken. Het werkt ook met MongoDB wat de studenten al geleerd hebben tijdens de basis inhoud.
 
-### React native
-React native is vergelijkbaar met ReactJS maar wordt gebruikt voor de ontwikkeling van mobiele applicaties. Met éen code base is mogelijk om voor zowel iOS en Android volledige native applicaties te maken.
+### React Native
+React Native is vergelijkbaar met ReactJS maar wordt gebruikt voor de ontwikkeling van mobiele applicaties. Met éen code base is mogelijk om voor zowel iOS en Android volledige native applicaties te maken.
