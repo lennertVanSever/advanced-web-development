@@ -45,7 +45,8 @@ De studenten moeten een web applicatie maken dat gebruikt maakt van alle aangele
 De onderstaande technologieën bouwen verder op de basis inhoud en kunnen onafhankelijk van elkaar gegeven worden.
 
 ### GraphQL/Apollo
-GraphQL is een query taal die het makkelijk maakt om een API te schrijven. Het is niet verbonden met een bepaalde database type. GraphQL wordt vaak gebruikt ter vervanging van REST API's en het is compatibel met Node.js .
+GraphQL is een query taal die het makkelijk maakt om een API te schrijven. Het is niet verbonden met een bepaalde database type. GraphQL wordt vaak gebruikt ter vervanging van REST API's en het is compatibel met Node.js.
+
 Apollo is een GraphQL client die ervoor zorgt dat GraphQL kan gebruikt worden in React, Vue.js, Angular, React Native, Android en iOS. Het voorziet ook functionaliteiten zoals subscriptions en caching.
 
 ### Cordova
