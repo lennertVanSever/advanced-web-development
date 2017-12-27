@@ -40,3 +40,22 @@ Een web applicatie dat alleen op je eigen lokale computer kan runnen is niets wa
 
 ## Werkstuk
 De studenten moeten een web applicatie maken dat gebruikt maakt van alle aangeleerde technieken.
+
+## extra inhoud
+De onderstaande technologieën bouwen verder op de basis inhoud en kunnen onafhankelijk van elkaar gegeven worden.
+
+### GraphQL/Apollo
+GraphQL is een query taal die het makkelijk maakt om een API te schrijven. Het is niet verbonden met een bepaalde database type. GraphQL wordt vaak gebruikt ter vervanging van REST API's en het is compatibel met Node.js .
+Apollo is een GraphQL client die ervoor zorgt dat GraphQL kan gebruikt worden in React, Vue.js, Angular, React Native, Android en iOS. Het voorziet ook functionaliteiten zoals subscriptions en caching.
+
+### Cordova
+Cordova zorgt ervoor dat een web applicatie kan gebruikt worden als een native mobile applicatie, het is compatibel met alle vermelden technologieën dus zeker een plus voor elke ontwikkelaar.
+
+### Electron.js
+Electron.js is vergelijkbaar met Cordova maar zorgt ervoor dat web applicaties kunnen draaien als echte desktop applicaties. Slack is hiervan een mooi voorbeeld.
+
+### Meteor.js
+Een Node.js framework die het mogelijk maakt om web applicaties volledig real time te maken. Het werkt ook met MongoDB wat de studenten al geleerd hebben tijdens de basis inhoud.
+
+### React native
+Vergelijkbaar met ReactJS maar wordt gebruikt voor de ontwikkeling van mobiele applicaties. Met éen code base is mogelijk om voor zowel iOS en Android volledige native applicaties te maken.
