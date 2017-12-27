@@ -56,7 +56,7 @@ Cordova zorgt ervoor dat een web applicatie kan gebruikt worden als een native m
 Electron.js is vergelijkbaar met Cordova maar zorgt ervoor dat web applicaties kunnen draaien als echte desktop applicaties. Slack is hiervan een mooi voorbeeld.
 
 ### Meteor.js
-Een Node.js framework die het mogelijk maakt om web applicaties volledig real time te maken. Het werkt ook met MongoDB wat de studenten al geleerd hebben tijdens de basis inhoud.
+Meteor.js is een Node.js framework die het mogelijk maakt om web applicaties volledig real time te maken. Het werkt ook met MongoDB wat de studenten al geleerd hebben tijdens de basis inhoud.
 
 ### React native
 Vergelijkbaar met ReactJS maar wordt gebruikt voor de ontwikkeling van mobiele applicaties. Met éen code base is mogelijk om voor zowel iOS en Android volledige native applicaties te maken.
